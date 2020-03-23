@@ -1,2 +1,2 @@
-# PDF-parser-
-tryout for PDF parser of object text
+# Chan-Grafana
+CSV file coverter to Influx DB
